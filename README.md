@@ -1,0 +1,5 @@
+# WORKBOOK-THREE-DAYS-WORKSHOP-ON-PYTHON-FOR-DATA-SCIENCE-IN-AGRICULTURE-UNIVERSITY-OF-AGRICULTURE-FSD
+
+
+Use this details also
+https://harvard-iacs.github.io/2019-CS109A/labs/lab-5/solutions/
